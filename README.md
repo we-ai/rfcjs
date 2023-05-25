@@ -1,3 +1,3 @@
-# fcjs
+# rfcjs
 
-A minimal package to build functional components.
+A minimal package to build reactive functional components.
